@@ -1,0 +1,11 @@
+wandb
+pycocotools 
+ftfy 
+regex 
+tqdm 
+ipywidgets
+seaborn
+einops
+clip-anytorch
+pycocotools
+kornia
